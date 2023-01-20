@@ -10,5 +10,6 @@
 
 Перехожу к изучению языка программирования JAVA Script
 
+![image](https://user-images.githubusercontent.com/121885635/213754223-90f8ac5e-5eb0-4c8f-b9a4-fee4d6cf133b.png)
 
 
